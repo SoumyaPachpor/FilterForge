@@ -1,0 +1,24 @@
+# Java build files
+*.class
+*.jar
+*.war
+*.ear
+
+# IDEs
+/.idea/
+/*.iml
+*.log
+*.swp
+*.DS_Store
+
+# Output folders
+/out/
+/output/
+
+# OS junk
+Thumbs.db
+.DS_Store
+
+# Env
+.env
+*.msi

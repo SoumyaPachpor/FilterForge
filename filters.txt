@@ -1,0 +1,4 @@
+grayscale,blur.jpg
+sepia,bright.jpg
+brightness:1.5,output.jpg
+invert,input.jpg
