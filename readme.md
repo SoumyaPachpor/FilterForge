@@ -2,7 +2,7 @@
 
 **FilterForge** is a clean and modular Java-based image filtering desktop application. Built with Java Swing, it allows users to load images, apply stunning filters, and save results with ease. Think of it as your mini Photoshop filter lab — with full control and extendability.
 
-![App Screenshot]([https://i.pinimg.com/736x/dd/d1/46/ddd146b2d1d2023533e66fa0c77a3167.jpg]))
+![App Screenshot](https://i.pinimg.com/736x/dd/d1/46/ddd146b2d1d2023533e66fa0c77a3167.jpg)
 
 ---
 
